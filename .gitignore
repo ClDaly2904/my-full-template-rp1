@@ -9,3 +9,5 @@ node_modules/
 cloudinary_python.txt
 vscode/deps.txt
 README.md
+.vscode/deps.txt
+README.md
