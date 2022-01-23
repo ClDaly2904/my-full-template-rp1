@@ -37,6 +37,12 @@ nav a:hover {
     margin-left: 10%;
 }
 
+.bottom-card {
+    float: left;
+    width: 20%;
+    margin-left: 20%;
+}
+
 .card a {
     text-align: center;
 }
